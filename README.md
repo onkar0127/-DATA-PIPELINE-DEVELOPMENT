@@ -122,3 +122,9 @@ Handling Mixed Data Types: Developed specialized processors for different data t
 Validation Logic: Implemented a comprehensive validation framework for data integrity
 
 This pipeline represents a complete solution for preparing data for analysis and modeling, with emphasis on flexibility, performance, and maintainability
+
+
+#output
+![Image](https://github.com/user-attachments/assets/02e1d41a-87bb-4d1d-b0bd-eb64861f7949)
+![Image](https://github.com/user-attachments/assets/bdb45a14-ca36-40d8-bd27-3e5beefdc9d1)
+![Image](https://github.com/user-attachments/assets/2896c345-b435-4831-8046-06804adb1c6e)
